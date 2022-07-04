@@ -1,0 +1,11 @@
+aws_region="us-east-1"
+stack="Nedal-PsAssignment"
+nedal_access_key = "##################"
+nedal_secret_key = "########################################"
+
+fargate-task-service-role="terraform-nedaltask-role"
+aws_ecr="nedaltask"
+aws_profile="default"
+source_repo_name="nedalrepo"
+source_repo_branch="master"
+image_repo_name="nedaltask2"
