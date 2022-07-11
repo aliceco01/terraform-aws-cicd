@@ -11,8 +11,8 @@ provider "aws" {
   #version = "~> 2.25"
   region  = var.aws_region
   profile = var.aws_profile
-  access_key = "${var.nedal_access_key}"
-  secret_key = "${var.nedal_secret_key}"
+  access_key = "${var.shirley_access_key}"
+  secret_key = "${var.shirley_secret_key}"
 }
 
 # ---------------------------------------------------------------------------------------------------------------------
