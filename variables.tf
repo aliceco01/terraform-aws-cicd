@@ -3,18 +3,18 @@
 # ---------------------------------------------------------------------------------------------------------------------
 
 variable "aws_region" {
-  description = "The AWS region to create things in."
+  description = "The AWS region"
   //default     = "us-east-1"
 }
 
 variable "aws_profile" {
   description = "AWS profile"
 }
-variable "nedal_access_key" {
-  description = " hhhhh"
+variable "shirley_access_key" {
+  description = " "
   
 }
-variable "nedal_secret_key" {
+variable "shirley_secret_key" {
   description = " the access key"
   }
 variable "stack" {
