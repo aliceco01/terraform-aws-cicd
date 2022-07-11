@@ -1,9 +1,4 @@
-#terraform-cicd
 
-
-
-
-Ps Assignment: 
 
 
 ![image](https://user-images.githubusercontent.com/100461037/173172327-187f4083-160c-4695-9425-00669d177f60.png)
