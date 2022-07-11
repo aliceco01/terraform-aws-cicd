@@ -35,7 +35,7 @@ After the terraform apply is done .
 
 You need to push the docker file needed to the CodeCommit  repository 
 
-https://git-codecommit.us-east-1.amazonaws.com/v1/repos/nedalrepo
+
 
 
 and the pipeline is triggered and started.
