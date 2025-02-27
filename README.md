@@ -1,8 +1,4 @@
 
-Below is a professionally rewritten version of your README file. I've refined the language, improved clarity, and adopted a polished tone suitable for a technical audience, while maintaining the original structure and intent.
-
----
-
 # Infrastructure and CI/CD Pipeline Deployment with Terraform
 
 ![Architecture Diagram](https://user-images.githubusercontent.com/100461037/173172327-187f4083-160c-4695-9425-00669d177f60.png)
